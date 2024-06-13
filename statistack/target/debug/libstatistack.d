@@ -1,0 +1,1 @@
+C:\Users\david\Desktop\statistack\statistack\statistack\target\debug\libstatistack.rlib: C:\Users\david\Desktop\statistack\statistack\statistack\src\error.rs C:\Users\david\Desktop\statistack\statistack\statistack\src\lib.rs C:\Users\david\Desktop\statistack\statistack\statistack\src\stack.rs
